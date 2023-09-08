@@ -48,5 +48,5 @@ public class Student {
         if (student1.calcAvg() > student2.calcAvg()) {
             System.out.println("Student1");
         } else System.out.println("Student2");
-    }~
+    }
 }
